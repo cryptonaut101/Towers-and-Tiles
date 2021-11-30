@@ -75,3 +75,15 @@ function dragLeave(event) {
     event.target.insertAdjacentHTML("afterbegin", `<img src="https://tinyurl.com/${draggableElementData}" style="width:${width}; height:${height}; z-index:1;">`)
     //}
     */
+
+    /* dice */
+
+    // Function to roll the dice
+    function rollTheDice() {
+        setTimeout(function () {
+            var randomNumber1 = Math.floor(Math.random() * 6) + 1;
+
+            document.querySelector(".img1").setAttribute("src",
+                "dice" + randomNumber1 + ".png");
+        }, 2500);
+    }
