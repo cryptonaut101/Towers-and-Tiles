@@ -95,3 +95,29 @@ body{
     position: relative;
     z-index: 1;
 }
+/*dice*/
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+
+.bottom {
+    padding-top: 30px;
+}
+
+.butn {
+    background: #AEB4A9;
+    font-family: "Montserrat", "Verdana";
+    border-radius: 7px;
+    color: #ffff;
+    font-size: 30px;
+    padding: 16px 25px 16px 25px;
+    text-decoration: none;
+}
+
+.butn:hover {
+    background: #232931;
+    text-decoration: none;
+}
