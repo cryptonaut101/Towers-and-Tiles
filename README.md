@@ -14,7 +14,7 @@
 4. When the number rolled is odd, the first player will place one of their pieces into the red-zone. If the number rolled is even, the second player will place one of their pieces into the red-zone.
 5. A stolen piece can not be placed into the red-zone after the die is rolled. A stolen piece is the one piece that each party takes from the red-zone to cause it to become empty.
 
-### Fundamental game Rules: Version 3
+### Fundamental Game Rules: Version 3
 1. During initialization, both players are only permitted to place in the first three columns and in their bounds.
 2. The red zone is simply a neutral zone: if it is empty, nothing has to be done.
 3. Every turn, a player rolls the dice. This will determine the number of tiles one piece should be moved. The said piece is chosen by the corresponding player.
