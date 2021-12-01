@@ -17,8 +17,7 @@
 ### Fundamental game Rules: Version 3
 1. During initialization, both players are only permitted to place in the first three columns and in their bounds.
 2. The red zone is simply a neutral zone: if it is empty, nothing has to be done.
-3. Every turn, a player rolls the dice. This will determine the number of tiles one piece should be moved.
- - The said piece is chosen by the corresponding player.
+3. Every turn, a player rolls the dice. This will determine the number of tiles one piece should be moved. The said piece is chosen by the corresponding player.
 4. A piece can only move up, down, and right within the player's bounds. In other words, a piece can not move backwards(left) on the board.
 5. When one piece reaches the end of the board, the game is over for the placer of that piece.
 6. A moving piece "bounces" on every tile, so the player can not move a piece over a tile a smaller piece has occupied.
