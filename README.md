@@ -21,3 +21,4 @@
  - The said piece is chosen by the corresponding player.
 4. A piece can only move up, down, and right within the player's bounds. In other words, a piece can not move backwards(left) on the board.
 5. When one piece reaches the end of the board, the game is over for the placer of that piece.
+6. A moving piece "bounces" on every tile, so the player can not move a piece over a tile a smaller piece has occupied.
