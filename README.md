@@ -1,4 +1,4 @@
-# Towers-of-Tiles - QED Project
+# Towers and Tiles - QED Project
 ### General Technicalities
   The objective of the first two versions of the game is to construct a tower out of the four given pieces before the other player does. The third version encourages the player to make as many fully constructed towers as possible before reaching the end of the board.
   In all versions, the two players must follow the rules. Excluding the smallest green piece, all pieces can only move vertically and laterally. The said green piece can move diagonally as well. Each piece can only move one tile of the grid at a time. A particular piece can not be stacked on a smaller piece.
